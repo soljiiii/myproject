@@ -8,5 +8,6 @@
 </head>
 <body>
 	JSP
+	index.jsp
 </body>
 </html>
