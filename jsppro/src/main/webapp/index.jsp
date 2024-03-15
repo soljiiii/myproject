@@ -9,5 +9,6 @@
 <body>
 	JSP
 	index.jsp
+	내용변경
 </body>
 </html>
